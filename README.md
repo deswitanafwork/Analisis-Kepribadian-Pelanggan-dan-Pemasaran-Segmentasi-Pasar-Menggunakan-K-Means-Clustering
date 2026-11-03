@@ -28,4 +28,4 @@ Pendekatan transformasi data dilakukan secara terstruktur agar algoritma *machin
 Tahap ini mencakup peringkasan statistik deskriptif dari seluruh variabel pembentuk daya beli pelanggan. Visualisasi hubungan korelasi (*pairplot*) digunakan untuk mengamati perbedaan signifikan pola belanja dan kunjungan web berdasarkan variabel demografis utama, seperti status kepemilikan anak.
 
 Tertarik dengan proses ekstraksi fitur tingkat lanjut dan kode pemodelan *clustering* di balik layar?
-Silakan telusuri tahapan lengkapnya melalui Jupyter Notebook di repositori GitHub ini. Jika Anda memiliki *feedback*, masukan, atau ingin berdiskusi mengenai peluang kolaborasi dan karir di bidang data, mari terhubung melalui LinkedIn saya atau jangkau saya melalui email di deswitanaf.work@gmail.com.
+Silakan telusuri tahapan lengkapnya melalui Jupyter Notebook di repositori GitHub ini. Jika Anda memiliki *feedback*, masukan, atau ingin berdiskusi mengenai peluang kolaborasi dan karir di bidang data, mari terhubung melalui LinkedIn saya atau jangkau saya melalui email di deswitanaf.work@gmail.com
